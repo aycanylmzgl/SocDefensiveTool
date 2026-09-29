@@ -21,3 +21,7 @@ In Enterprise SOC (Security Operations Center) environments, detecting unauthori
 3. **Important:** Restart Visual Studio as an **Administrator**. Reading Windows Security Logs requires elevated privileges.
 4. Build and Run the application. 
 5. To test, open an administrative command prompt and run a dummy logon attempt: `runas /user:FakeHacker cmd`
+
+<img width="516" height="242" alt="image" src="https://github.com/user-attachments/assets/89625585-ff41-460e-943e-7fccd3887f41" />
+
+
